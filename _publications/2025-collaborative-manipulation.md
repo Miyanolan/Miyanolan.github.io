@@ -10,6 +10,6 @@ paperurl: https://ieeexplore.ieee.org/document/11301175
 citation: 'J. Ye, C. Li, H. Zhang, P. Zhou and N. Y. Chong, &quot;Collaborative Manipulation in Clutter Scenes Via Dual-Branch Grasping and Stackelberg Pushing,&quot; <i>ICCAS 2025</i>, Incheon, Korea, 2025, pp. 739-745.'
 ---
 
-**Authors:** Jiahao Ye, Chenming Li, **Haolan Zhang**, Peng Zhou, and Nak Young Chong
+**Authors:** Jianze Ye, Chenghao Li, **Haolan Zhang**, Pengwen Zhou, and Nak Young Chong
 
 Published in 25th International Conference on Control, Automation and Systems (ICCAS), Incheon, Korea, 2025, pp. 739-745.
