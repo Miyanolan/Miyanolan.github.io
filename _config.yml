@@ -148,4 +148,6 @@ paginate_path: /page:num/
 
 # Analytics
 analytics:
-  provider: false
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-173S19Z4BB"
