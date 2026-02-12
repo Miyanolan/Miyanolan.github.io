@@ -10,6 +10,6 @@ paperurl: https://ieeexplore.ieee.org/abstract/document/11139743
 citation: 'H. Zhang, T. N. Canh, C. Li and N. Y. Chong, &quot;Adaptive Prior Scene-Object SLAM for Dynamic Environments,&quot; <i>IEEE RCAR 2025</i>, Toyama, Japan, 2025, pp. 43-48.'
 ---
 
-**Authors:** **Haolan Zhang**, Thanh Nguyen Canh, Chenming Li, and Nak Young Chong
+**Authors:** **Haolan Zhang**, Thanh Nguyen Canh, Chenghao Li, and Nak Young Chong
 
 Published in 2025 IEEE International Conference on Real-time Computing and Robotics (RCAR), Toyama, Japan, pp. 43-48.
