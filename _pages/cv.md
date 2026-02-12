@@ -9,56 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **Ph.D. in Information Science**, Japan Advanced Institute of Science and Technology (JAIST), 2024 – 2027 (expected)
+  - Advisor: Prof. Nak Young Chong
+  - Research: Adaptive Visual SLAM in various environments
+- **M.S. in Electronics and Informatics**, Gunma University, 2022 – 2024
+  - Advisor: Prof. Seiji Hashimoto
+  - Research: Robot Vision, LiDAR SLAM
+- **B.S. in Automation Engineering**, Dalian Polytechnic University, 2017 – 2021
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Professional Experience
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Data Analysis Associate**, Accenture China Co Ltd, Dalian, China, Oct 2021 – Apr 2022
+  - Medical data collecting, cleaning, analysis, visualization and building predictive models.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Research Projects
+
+**Adaptive Visual SLAM Framework in Various Environments**
+- Developed SR-SLAM, a scene reliability-based RGB-D SLAM framework that achieves robust localization across diverse environments through a unified reliability assessment mechanism integrating detection confidence, spatial distribution, feature quality, depth quality, and historical observations. Demonstrated superior robustness over state-of-the-art methods on TUM, BONN, and OpenLORIS-scene benchmarks.
+
+## Technical Skills
+
+- **Frameworks:** ROS (Robot Operating System)
+- **Languages:** C++, Python, PyTorch
+- **Natural Languages:** Chinese (Native), Japanese (JLPT N1), English (TOEIC 785)
+
+## References
+
+- **Dr. Nak Young Chong** — Professor, JAIST; Co-founder and CEO of CURA Robotics and AI — nakyoung@jaist.ac.jp
