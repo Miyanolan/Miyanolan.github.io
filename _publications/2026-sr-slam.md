@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-sr-slam
 excerpt: 'A scene reliability-based RGB-D SLAM framework that adaptively guides decision-making throughout the entire SLAM pipeline for robust localization across diverse environments.'
-date: 2026-03-01
+date: 2025-12-22
 venue: 'Robotics and Autonomous Systems'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0921889025004038'
 citation: 'H. Zhang, C. Li, T. N. Canh, L. Wang and N. Y. Chong, &quot;SR-SLAM: Scene reliability-based RGB-D SLAM in diverse environments,&quot; <i>Robotics and Autonomous Systems</i>, vol. 197, 105306, 2026.'
