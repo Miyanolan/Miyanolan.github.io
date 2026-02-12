@@ -1,36 +1,44 @@
-# Site Settings
-locale                   : "en-US"
-title                    : "Haolan Zhang"
-title_separator          : "-"
-name                     : &name "Haolan Zhang"
-description              : &description "Ph.D. Student at JAIST - Adaptive Visual SLAM"
-url                      : https://Miyanolan.github.io  # TODO: Replace with your GitHub username
-baseurl                  : "
-repository               : "Miyanolan/Miyanolan.github.io"  # TODO: Replace
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve -l -H localhost`. If you change this file, please restart the
+# server process.
+
+# Basic Site Settings
+locale: "en-US"
+title: "Haolan Zhang"
+title_separator: "-"
+name: &name "Haolan Zhang"
+description: &description "Ph.D. Student at JAIST - Adaptive Visual SLAM"
+url: "https://Miyanolan.github.io"
+baseurl: ""
+repository: "Miyanolan/Miyanolan.github.io"
+teaser:
+breadcrumbs: false
 
 # Site Author
 author:
-  avatar           : "profile.png"  # TODO: Add your photo to /images/profile.png
-  name             : "Haolan Zhang"
-  pronouns         : "he/him"
-  bio              : "Ph.D. Student @ JAIST<br>Adaptive Visual SLAM"
-  location         : "Nomi, Ishikawa, Japan"
-  employer         : "Japan Advanced Institute of Science and Technology"
-  uri              :
-  email            : "haolan.z@jaist.ac.jp"
-
-  # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?hl=ja&user=EwVNW7EAAAAJ&view_op=list_works&sortby=pubdate"
-  orcid            :  0009-0007-1742-3754
-  github           :  # TODO: Add your GitHub username
-  linkedin         :  # TODO: Add your LinkedIn username
+  avatar: "profile.png"
+  name: "Haolan Zhang"
+  pronouns: "he/him"
+  bio: "Ph.D. Student @ JAIST, Adaptive Visual SLAM"
+  location: "Nomi, Ishikawa, Japan"
+  employer: "Japan Advanced Institute of Science and Technology"
+  uri:
+  email: "haolan.z@jaist.ac.jp"
+  googlescholar: "https://scholar.google.com/citations?user=EwVNW7EAAAAJ"
+  orcid:
+  github: "Miyanolan"
+  linkedin:
 
 # Publication Categories
 publication_category:
   manuscripts:
-    title: 'Journal Articles'
+    title: "Journal Articles"
   conferences:
-    title: 'Conference Papers'
+    title: "Conference Papers"
 
 # Reading Files
 include:
@@ -96,7 +104,6 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -107,14 +114,12 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-  # _publications
   - scope:
       path: ""
       type: publications
