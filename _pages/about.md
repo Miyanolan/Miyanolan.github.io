@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student at [Japan Advanced Institute of Science and Technology (JAIST)](https://www.jaist.ac.jp/), advised by [Prof. Nak Young Chong](https://fp.jaist.ac.jp/public/Default2.aspx?id=352&l=1](https://www.jaist.ac.jp/robot/index.php)/). My research focuses on **adaptive visual SLAM** for robust robot localization across diverse and challenging environments.
+I am a second-year Ph.D. student at [Japan Advanced Institute of Science and Technology (JAIST)](https://www.jaist.ac.jp/), advised by [Prof. Nak Young Chong](https://www.jaist.ac.jp/robot/index.php/). My research focuses on **adaptive visual SLAM** for robust robot localization across diverse and challenging environments.
 
 ## Research Interests
 
