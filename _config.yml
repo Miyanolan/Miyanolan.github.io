@@ -4,9 +4,9 @@ title                    : "Haolan Zhang"
 title_separator          : "-"
 name                     : &name "Haolan Zhang"
 description              : &description "Ph.D. Student at JAIST - Adaptive Visual SLAM"
-url                      : https://YOUR_GITHUB_USERNAME.github.io  # TODO: Replace with your GitHub username
-baseurl                  : ""
-repository               : "YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME.github.io"  # TODO: Replace
+url                      : https://HaolanZhang.github.io  # TODO: Replace with your GitHub username
+baseurl                  : "
+repository               : "Miyanolan/HaolanZhang.github.io"  # TODO: Replace
 
 # Site Author
 author:
@@ -20,8 +20,8 @@ author:
   email            : "haolan.z@jaist.ac.jp"
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=EwVNW7EAAAAJ"
-  orcid            :  # TODO: Add your ORCID if available
+  googlescholar    : "https://scholar.google.com/citations?hl=ja&user=EwVNW7EAAAAJ&view_op=list_works&sortby=pubdate"
+  orcid            :  0009-0007-1742-3754
   github           :  # TODO: Add your GitHub username
   linkedin         :  # TODO: Add your LinkedIn username
 
